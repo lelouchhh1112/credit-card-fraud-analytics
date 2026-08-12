@@ -1,0 +1,15 @@
+# Large Data Files
+*.csv
+creditcard.csv
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Docker & IDE Settings
+.vscode/
+.idea/
+.DS_Store
